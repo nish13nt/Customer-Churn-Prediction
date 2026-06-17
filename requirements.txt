@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+fastapi
+uvicorn
+mysql-connector-python
+python-dotenv
+matplotlib
+seaborn
+joblib
